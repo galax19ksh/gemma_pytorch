@@ -14,7 +14,6 @@
 """Inference-only Gemma model implementation."""
 
 import re
-import transformer #added
 import torch
 from torch import nn
 import torch.nn.functional as F
